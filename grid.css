@@ -1,0 +1,16 @@
+.row {
+    padding-bottom: 20px;
+}
+
+body{
+    padding-top: 70px;
+}
+
+.jumbotron {
+  background-color: #ecf0f1;
+  color: #2c3e50;
+}
+
+.nav{
+    background: #2c3e50;
+}
